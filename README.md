@@ -21,4 +21,8 @@ Here’s what it does:
 
 👉 In short, **PatientPulse AI is a healthcare recommender and monitoring system powered by Generative AI**, built to improve patient satisfaction, service quality, and trust in healthcare systems.
 
+
+
+## **Solution Flow Architecture**
+
 <img width="2088" height="1008" alt="image" src="https://github.com/user-attachments/assets/1eac4bac-301f-4efa-ac62-58cc48b92014" />
