@@ -1,4 +1,4 @@
-**PatientPulse AI 
+## **PatientPulse AI**
 
 It is a **Generative AI–powered tool** designed to decode patient voices from Google hospital reviews in Singapore and transform them into **structured, unbiased, and actionable insights**.
 
